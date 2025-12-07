@@ -1,9 +1,7 @@
 <!-- Banner / Title -->
 <h1 align="center">Mariamawit Nejib<br/>
-Software Engineering Student | Full Stack Developer | Java | Laravel | Android</h1>
+Software Engineering Student | Full Stack Developer</h1>
 
-  <p align="center">
-  <img src="https://i.imgur.com/evmF1G9.gif" width="300"/>
 </p>
 
 ---
