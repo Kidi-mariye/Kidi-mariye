@@ -23,54 +23,50 @@ Software Engineering Student | Full Stack Developer | Java | Laravel | Android</
 💭 Passionate about clean UI, strong logic, and continuous personal growth
 🎯 Actively building real-world projects to level up my skills
 
+# Hi there 👋
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Java%2025-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PHP%208.5-777BB4?logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript%20ES2024-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL%208.4%20LTS-4479A1?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-XAMPP-FB7A24?logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git%202.52-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Linux%206.18-FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Docker%2029-2496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Jira%2011.3%20LTS-0052CC?logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white" />
-</p>
+## 🚀 What I'm Up To
 
-## 📌 Featured Projects  
-### 🔹 **Utility Complaint Management System**  
-Java + MySQL system with GUI, client ID generation, and database storage.
-
-### 🔹 **Physics Notebook Mobile App**  
-Android app with physics topics, notes, and a clean interface.
-
-### 🔹 **Web & Mini Tools**  
-Login systems, CRUD apps, and small utilities built during learning.
+* Learning **Next.js**, **TypeScript**, and modern backend tools
+* Building full-stack projects with MERN stack
+* Constantly improving **UI/UX** & **performance optimization**
+* Open to collaborations and open-source contributions
 
 ---
+
+
+## 💻 Tech Stack & Skills
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" alt="XAMPP" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
+
+## 🛠 Tools & Platforms
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
+</p>
+
 
 ## 📊 GitHub Stats  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=Kidi-mariye&show_icons=true&theme=tokyonight" height="150">
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="150">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kidi-mariye&theme=tokyonight" height="150">
 </p>
 
 ---
-
-## 🌍 Location  
-📍 Addis Ababa, Ethiopia  
-
----
-
-## 🔗 Connect With Me  
-- 🌐 Portfolio: *your portfolio link here*  
-- 💼 LinkedIn: *your LinkedIn link here*  
-- 📧 Email: *your email here*  
-
----
-
 <p align="center">✨ Thanks for visiting my GitHub! Stay tuned for more projects. ✨</p>
