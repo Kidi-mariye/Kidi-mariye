@@ -23,33 +23,46 @@
 ---
 
 ## 🚀 About Me
-🎓 Software Engineering Student
-🧩 Learning full-stack development with the MERN stack
-⚡ Focused on building fast, scalable, and efficient applications
-💡 Enjoy turning concepts into real, impactful tools users love
-💭 Passionate about clean UI, strong logic, and continuous personal growth
-🎯 Actively building real-world projects to level up my skills
+🎓 Software Engineering Student.</br>
+🧩 Learning full-stack development with the MERN stack.</br>
+⚡ Focused on building fast, scalable, and efficient applications.</br>
+💡 Enjoy turning concepts into real, impactful tools users love.</br>
+💭 Passionate about clean UI, strong logic, and continuous personal growth.</br>
+🎯 Actively building real-world projects to level up my skills.</br>
 
-# Hi there 👋
 
 ## 🚀 What I'm Up To
 
-* Learning **Next.js**, **TypeScript**, and modern backend tools
-* Building full-stack projects with MERN stack
-* Constantly improving **UI/UX** & **performance optimization**
-* Open to collaborations and open-source contributions
-
----
+🧱 Building real projects to strengthen my portfolio.</br>
+📚 Learning new technologies and improving my coding skills.</br>
+🌐 Exploring full-stack development and software best practices.</br>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/express.svg" width="40" height="40"/>
+</p>
+
+
+##🧰 Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/xampp.svg" width="40" height="40" alt="XAMPP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+</p>
+
+
+
+
+
 
 ## 📊 GitHub Stats  
 <p align="center">
@@ -57,6 +70,7 @@
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kidi-mariye&theme=tokyonight" height="150">
 </p>
+
 
 ---
 <p align="center">✨ Thanks for visiting my GitHub! Stay tuned for more projects. ✨</p>
