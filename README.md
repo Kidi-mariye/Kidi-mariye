@@ -1,8 +1,14 @@
-<!-- Banner / Title -->
-<h1 align="center">Mariamawit Nejib<br/>
-Software Engineering Student | Full Stack Developer</h1>
 
-<p align="center">
+<h1 align="center">
+  ✨ Mariamawit Nejib ✨<br/>
+  <span style="font-size:18px;">Software Engineering Student • Full Stack Developer</span><br/>
+  <p align="center">
+  <img src="https://github.com/Kidi-mariye/Kidi-mariye/raw/81d843324619c3b8a0bf3089b3c2100bd9808adc/giphy.gif" width="900"height="400">
+</p>
+
+</h1>
+
+
 
 
 
