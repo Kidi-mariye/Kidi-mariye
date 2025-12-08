@@ -59,17 +59,5 @@
 
 
 
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kidi-mariye&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="350" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kidi-mariye&theme=tokyonight" alt="GitHub Streak" width="350" />
-</p>
-
-
 ---
 <p align="center">✨ Thanks for visiting my GitHub! Stay tuned for more projects. ✨</p>
