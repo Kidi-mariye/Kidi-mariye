@@ -1,10 +1,16 @@
 <!-- Banner / Title -->
 <h1 align="center">Mariamawit Nejib<br/>
 Software Engineering Student | Full Stack Developer</h1>
+<p align="center">
+ ![gif](link.gif)
+
+</p>
+
 
 </p>
 
 ---
+
 
 ## ✨ Creating software that feels simple, intuitive, and empowering.
 
