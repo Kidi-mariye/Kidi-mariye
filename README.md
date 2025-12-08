@@ -9,15 +9,7 @@
 
 </h1>
 
-
-
-
-
----
-
-
-
-🚀 Software Engineering student learning full-stack development with the MERN stack and building fast, scalable applications.</br>
+🚀 Software Engineering student at Arbaminch University, learning full-stack development with the MERN stack and building fast, scalable applications.</br>
 💡 I enjoy turning concepts into real, impactful tools that users love.
 
 ---
@@ -59,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/xampp.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="40" height="40"/>
 
   
