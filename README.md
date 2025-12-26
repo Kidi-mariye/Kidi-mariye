@@ -1,18 +1,13 @@
 
 <h1 align="center">
-  ✨ Mariamawit Nejib ✨<br/>
-  <span style="font-size:18px;">Software Engineering Student • Full Stack Developer</span><br/>
+  ✨ Mariamawit-Nejib ✨<br/>
+  <span style="font-size:18px;">Software-Engineering Student | Full Stack Developer</span><br/>
   <p align="center">
   <img src="https://github.com/Kidi-mariye/Kidi-mariye/raw/81d843324619c3b8a0bf3089b3c2100bd9808adc/giphy.gif" width="900"height="400">
 </p>
-<p align="center"> ✨ Creating software that feels simple, intuitive, and empowering.</p>
+<p align="center"> ✨ Creating softwares that feel simple, intuitive, and empowering.</p>
 
 </h1>
-
-🚀 Software Engineering student at Arbaminch University, learning full-stack development with the MERN stack and building fast, scalable applications.</br>
-💡 I enjoy turning concepts into real, impactful tools that users love.
-
----
 
 ## 🚀About Me
 🎓 Software Engineering Student.</br>
