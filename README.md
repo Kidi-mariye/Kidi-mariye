@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀About Me
 🎓 Software Engineering Student.</br>
 🧩 Learning full-stack development with the MERN stack.</br>
 ⚡ Focused on building fast, scalable, and efficient applications.</br>
@@ -23,13 +23,13 @@
 🎯 Actively building real-world projects to level up my skills.</br>
 
 
-## 🚀 What I'm Up To
+## 🚀What I'm Up To
 
 🧱 Building real projects to strengthen my portfolio.</br>
 📚 Learning new technologies and improving my coding skills.</br>
 🌐 Exploring full-stack development and software best practices.</br>
 
-# 💻 Tech Stack
+# 💻Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -44,7 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40"/>
 </p>
-##🧰 Tools
+##🧰Tools
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" width="40" height="40"/>
