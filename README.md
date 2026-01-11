@@ -5,7 +5,7 @@
   <p align="center">
   <img src="https://github.com/Kidi-mariye/Kidi-mariye/raw/81d843324619c3b8a0bf3089b3c2100bd9808adc/giphy.gif" width="900"height="400">
 </p>
-<p align="center"> ✨ Creating softwares that feel simple, intuitive, and empowering.</p>
+<p align="center"> ✨ Creating software that feels simple, intuitive, and empowering.</p>
 
 </h1>
 
@@ -53,6 +53,4 @@
 </p>
 
 
-
----
 <p align="center">✨ Thanks for visiting my GitHub! Stay tuned for more projects. ✨</p>
