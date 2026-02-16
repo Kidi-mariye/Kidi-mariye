@@ -40,7 +40,7 @@
  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/xampp.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/Laragon-0E2E3E?style=for-the-badge&logo=laragon&logoColor=white" height="40"/>
+ <img src="https://raw.githubusercontent.com/leandromatos/laragon-icons/master/laragon.svg" width="40" height="40"/>
 
   
 </p>
