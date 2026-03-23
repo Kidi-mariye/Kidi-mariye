@@ -38,40 +38,35 @@
 
 ## 🧭 Developer Snapshot
 
-<table align="center">
-  <tr>
-    <td><b>🎯 Current Focus</b></td>
-    <td>Full-stack MERN projects with clean architecture</td>
-  </tr>
-  <tr>
-    <td><b>📘 Learning</b></td>
-    <td>Advanced React patterns, API design, performance tuning</td>
-  </tr>
-  <tr>
-    <td><b>💡 Coding Style</b></td>
-    <td>Readable, maintainable, user-first solutions</td>
-  </tr>
-  <tr>
-    <td><b>🏁 2026 Goal</b></td>
-    <td>Ship impactful projects and grow as a confident software engineer</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/🎯%20Current%20Focus-Full--stack%20MERN%20projects%20with%20clean%20architecture-ff6b9a?style=for-the-badge" alt="Current Focus" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/📘%20Learning-Advanced%20React%20patterns%2C%20API%20design%2C%20performance%20tuning-06d6a0?style=for-the-badge" alt="Learning" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/💡%20Coding%20Style-Readable%2C%20maintainable%2C%20user--first%20solutions-118ab2?style=for-the-badge" alt="Coding Style" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/🏁%202026%20Goal-Ship%20impactful%20projects%20and%20grow%20as%20a%20software%20engineer-f59e0b?style=for-the-badge" alt="2026 Goal" />
+</p>
 
 ---
 
 ## 📈 Learning Momentum
 
-<p align="center"><b>React & Frontend Engineering</b></p>
-<p align="center">▓▓▓▓▓▓▓▓░░ 80%</p>
-
-<p align="center"><b>Backend with Node and Express</b></p>
-<p align="center">▓▓▓▓▓▓▓░░░ 70%</p>
-
-<p align="center"><b>Database Design and Optimization</b></p>
-<p align="center">▓▓▓▓▓▓░░░░ 60%</p>
-
-<p align="center"><b>System Design Fundamentals</b></p>
-<p align="center">▓▓▓▓░░░░░░ 40%</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React%20%26%20Frontend%20Engineering-80%25-ff6b9a?style=for-the-badge" alt="React and Frontend 80%" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Node%20%26%20Express%20Backend-70%25-06d6a0?style=for-the-badge" alt="Backend 70%" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Database%20Design%20%26%20Optimization-60%25-118ab2?style=for-the-badge" alt="Database 60%" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Design%20Fundamentals-40%25-f59e0b?style=for-the-badge" alt="System Design 40%" />
+</p>
 
 ---
 
