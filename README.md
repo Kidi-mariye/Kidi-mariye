@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  ✨ Mariamawit-Nejib ✨<br/>
+  Mariamawit-Nejib <br/>
   <span style="font-size:18px;">Software-Engineering Student </span><br/>
   <p align="center">
   <img src="https://github.com/Kidi-mariye/Kidi-mariye/raw/81d843324619c3b8a0bf3089b3c2100bd9808adc/giphy.gif" width="900"height="400">
