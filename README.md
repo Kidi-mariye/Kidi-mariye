@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/github/stars/Kidi-mariye?affiliations=OWNER&style=for-the-badge&color=2a9d8f" alt="Stars"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Total%20Contributions-183-2a9d8f?style=for-the-badge&logo=github" alt="Total Contributions 183"/>
+</p>
+
 ---
 
 ## 🚀 About Me
