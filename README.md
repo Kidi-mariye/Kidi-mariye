@@ -10,9 +10,9 @@
 <p align="center">✨ Creating software that feels simple, intuitive, and empowering.</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kidi-mariye&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Kidi-mariye?label=Followers&style=for-the-badge&color=1f6feb" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Kidi-mariye?affiliations=OWNER&style=for-the-badge&color=f59e0b" alt="Stars"/>
+  <img src="https://komarev.com/ghpvc/?username=Kidi-mariye&label=Profile%20Views&color=ff8fab&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Kidi-mariye?label=Followers&style=for-the-badge&color=f4a261" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Kidi-mariye?affiliations=OWNER&style=for-the-badge&color=2a9d8f" alt="Stars"/>
 </p>
 
 ---
@@ -56,12 +56,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kidi-mariye&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidi-mariye&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kidi-mariye&show_icons=true&theme=rose_pine&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kidi-mariye&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kidi-mariye&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=Kidi-mariye&theme=rose-pine&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ## 🌐 Connect With Me
