@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Mariamawit Nejib 🌟  
+# **Mariamawit Nejib**
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=32&duration=2300&pause=900&center=true&vCenter=true&width=900&lines=Software+Engineer;MERN+Stack+Developer;Building+Intuitive+Software" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:264653,100:e76f51&height=120&section=header"/>
@@ -16,21 +16,21 @@
 
 ---
 
-## 🌼 About Me
+## **About Me**
 🎓 Software Engineering Student  
 🧩 Learning full-stack development with the MERN stack  
 ⚡ Focused on building fast, scalable, and efficient applications  
 
 ---
 
-## 🚀 What I’m Working On
+## **What I’m Working On**
 🧱 Building real-world projects to strengthen my portfolio  
 📚 Exploring advanced technologies and improving coding skills  
 🌐 Diving deeper into full-stack development best practices  
 
 ---
 
-## 🧭 Developer Snapshot
+## **Developer Snapshot**
 <div align="center">
 
 <img src="https://img.shields.io/badge/🎯%20Focus-Full--stack%20MERN%20Projects-264653?style=for-the-badge"/>  
@@ -42,7 +42,7 @@
 
 ---
 
-## 📈 Learning Momentum
+## **Learning Momentum**  
 <div align="center">
 
 <img src="https://img.shields.io/badge/React%20%26%20Frontend-80%25-264653?style=for-the-badge"/>  
@@ -54,16 +54,16 @@
 
 ---
 
-## 💻 Tech Stack
+## **Tech Stack**
 <div align="center">
 
-### 🖌️ Frontend  
+### **Frontend  **
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 
-### ⚙️ Backend  
+### **Backend **
 <img src="https://skillicons.dev/icons?i=nodejs,express,mysql" />
 
-### 🛠 Tools  
+### **Tools **
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />  
 <img src="https://img.shields.io/badge/Notion-111111?style=flat-square&logo=notion&logoColor=white"/>  
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white"/>  
@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## **GitHub Analytics**
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kidi-mariye&show_icons=true&theme=gruvbox_light&hide_border=true&rank_icon=github"/>  
@@ -91,7 +91,7 @@
 
 ---
 
-## ✨ Dev Mindset
+## **Dev Mindset**
 <div align="center">
 
 <img src="https://img.shields.io/badge/Code%20for%20People-User%20First-264653?style=for-the-badge"/>  
@@ -102,7 +102,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## **Connect With Me**
 <div align="center">
 
 <a href="https://github.com/Kidi-mariye">  
