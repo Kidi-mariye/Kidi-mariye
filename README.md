@@ -109,11 +109,11 @@
 <img src="https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white"/>  
 </a>  
 
-<a href="mailto:your-email@example.com">  
+<a href="mailto:mariamawitnejib@gmail.com">  
 <img src="https://img.shields.io/badge/Email-c2410c?style=for-the-badge&logo=gmail&logoColor=white"/>  
 </a>  
 
-<a href="https://www.linkedin.com/in/your-linkedin/">  
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mariamawit-nejib-890b48332//">  
 <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/>  
 </a>  
 
