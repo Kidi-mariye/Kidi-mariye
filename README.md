@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌟 Mariamawit Nejib 🌟  
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=32&duration=2300&pause=900&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;MERN+Stack+Developer;Building+Intuitive+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=32&duration=2300&pause=900&center=true&vCenter=true&width=900&lines=Software+Engineer;MERN+Stack+Developer;Building+Intuitive+Software" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:264653,100:e76f51&height=120&section=header"/>
 
